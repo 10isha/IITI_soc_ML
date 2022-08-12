@@ -99,7 +99,7 @@ pip install -r requirements.txt  # install
 ---
 
 ### **Training**
-the tensor
+
 Tensorboard results:
 
 <img width="800" src="https://raw.githubusercontent.com/snarkyidiot/IITI_soc_ML/main/Demo/results.png">

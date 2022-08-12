@@ -80,7 +80,7 @@ pip install -r requirements.txt  # install
 <summary>Inference</summary>
 
 
-- You can run inference inside yolov5 folder by using this command:
+- You can run inference inside YoloV5_main folder by using this command:
  
 
     ```bash

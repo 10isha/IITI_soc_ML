@@ -103,7 +103,6 @@ pip install -r requirements.txt  # install
 Tensorboard results:
 
 <img width="800" src="https://raw.githubusercontent.com/snarkyidiot/IITI_soc_ML/main/Demo/results.png">
----
 https://docs.google.com/spreadsheets/d/1vNaIl_QhOzDW6Ybr08uVx-mlAI5BWqOOxjPJnY_aVR8/edit#gid=0
 ---
 ### **Dataset used**

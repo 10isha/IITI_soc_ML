@@ -99,7 +99,7 @@ pip install -r requirements.txt  # install
 ### **Accuracy measures**
 Tensorboard results:
 
-<img width="800" src="https://user-images.githubusercontent.com/26833433/90222759-949d8800-ddc1-11ea-9fa1-1c97eed2b963.png">
+<img width="800" src="https://raw.githubusercontent.com/snarkyidiot/IITI_soc_ML/main/Demo/results.png">
 
 ---
 ### **Dataset used**

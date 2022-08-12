@@ -98,10 +98,14 @@ pip install -r requirements.txt  # install
 
 ---
 
-### **Accuracy measures**
+### **Training**
+the tensor
 Tensorboard results:
 
 <img width="800" src="https://raw.githubusercontent.com/snarkyidiot/IITI_soc_ML/main/Demo/results.png">
+---
+### **Accuracy measures**
+we ran a testing in testing dataset and calculated precision,recall, F1 score of the model
 
 ---
 ### **Dataset used**

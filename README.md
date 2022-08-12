@@ -22,11 +22,11 @@ In this presentation, we will be demonstrating a Computer Vision demo using YOLO
 
 Sign Language Detection Using YOLO Algorithm
 
-![res-2](https://raw.githubusercontent.com/snarkyidiot/IITI_soc_ML/main/Demo/WIN_20220811_16_28_57_Pro.jpg)
+<img width="400" src="https://raw.githubusercontent.com/snarkyidiot/IITI_soc_ML/main/Demo/WIN_20220811_16_28_57_Pro.jpg">
 
-![res-1](https://raw.githubusercontent.com/snarkyidiot/IITI_soc_ML/main/Demo/WIN_20220811_15_23_17_Pro.jpg)
+<img width="400" src="https://raw.githubusercontent.com/snarkyidiot/IITI_soc_ML/main/Demo/WIN_20220811_15_23_17_Pro.jpg">
 
-
+<!-- ![res-2](https://raw.githubusercontent.com/snarkyidiot/IITI_soc_ML/main/Demo/WIN_20220811_16_28_57_Pro.jpg) -->
 
 
 **Yolo model:**
@@ -111,10 +111,17 @@ We have used an American Sign Language Dataset consisting of 3399 images having 
 
 -  [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dEI4jfkUO9_u5NLw_FQ-8ute53WbU_eg?usp=sharing) (Model using CNN layers for real time sign language detection))
 
+-  <img src="https://raw.githubusercontent.com/snarkyidiot/IITI_soc_ML/main/Demo/Screenshot%20(887).png" width="250"/>
 
--  [![Open All Collab](https://colab.research.google.com/drive/1syYyApJSgzV6S0ZIZ5aRLvsN5espFHM1?usp=sharing) (Model uses holistic mediapipeline)
+<br/><br/>
 
-![res-3](https://github.com/snarkyidiot/IITI_soc_ML/blob/main/Demo/WhatsApp%20Image%202022-08-12%20at%203.05.10%20PM.jpeg)
+
+
+
+-  [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1syYyApJSgzV6S0ZIZ5aRLvsN5espFHM1?usp=sharing)(Model uses holistic mediapipeline)
+
+-  <img src="https://raw.githubusercontent.com/snarkyidiot/IITI_soc_ML/main/Demo/WhatsApp%20Image%202022-08-12%20at%203.05.10%20PM.jpeg" width="250"/>
+
 ----
 
 ### **Documentation**
@@ -127,6 +134,8 @@ See the [Sign language translator doc](https://docs.google.com/document/d/1quMYL
 
 * https://github.com/ultralytics/yolov5
 * https://github.com/roboflow-ai
+* https://zone.biblio.laurentian.ca/bitstream/10219/3843/1/Thesis%20FINAL%20-%20Devina%20Vaghasiya%20-%2025-Mar-2021.pdf
+*  https://docs.ovh.com/asia/en/publiccloud/ai/training/web-service-yolov5/
 
 
 ***Thanks for Reading***
@@ -140,4 +149,5 @@ https://user-images.githubusercontent.com/107802412/184129250-b72b0c76-0256-49f3
 
 
 https://user-images.githubusercontent.com/107802412/184130019-2472c959-ec44-4211-91a5-9ce838633cf3.mp4 -->
+
 

@@ -7,6 +7,7 @@
 - [Run](#Run)
 - [Demo](#Demo)
 - [Inference](#Inference)
+- [Training](#Training)
 - [Accuracy measures](#Accuracy-measures)
 - [Dataset used](#Dataset-used)
 - [Other Models Tried](#Other-Models-Tried)
@@ -99,14 +100,14 @@ pip install -r requirements.txt  # install
 ---
 
 ### **Training**
-
+the tensor
 Tensorboard results:
 
 <img width="800" src="https://raw.githubusercontent.com/snarkyidiot/IITI_soc_ML/main/Demo/results.png">
 ---
 ### **Accuracy measures**
 we ran a testing in testing dataset and calculated precision,recall, F1 score of the model
-
+{google_sheets}https://docs.google.com/spreadsheets/d/1vNaIl_QhOzDW6Ybr08uVx-mlAI5BWqOOxjPJnY_aVR8/edit?usp=sharing{/google_sheets}
 ---
 ### **Dataset used**
 We have used an American Sign Language Dataset consisting of 3399 images having 26 American Sign language alphabets. This dataset was used because of the availability of annotations which were required for training our YOLO-v5s model.

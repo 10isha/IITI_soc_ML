@@ -52,9 +52,9 @@ streamlit run app.py
  
 ---
 ### **Demo**
-<video src='https://user-images.githubusercontent.com/107802412/184130019-2472c959-ec44-4211-91a5-9ce838633cf3.mp4' width=550/></video>
+<video src='https://user-images.githubusercontent.com/107802412/184130019-2472c959-ec44-4211-91a5-9ce838633cf3.mp4' width=400/></video>
 
-
+<video src='https://user-images.githubusercontent.com/107802412/184349579-101a7631-f1bc-4924-b156-528c910b2aea.mp4' width=400/></video>
 
 
 ### **Inference**
@@ -149,5 +149,8 @@ https://user-images.githubusercontent.com/107802412/184129250-b72b0c76-0256-49f3
 
 
 https://user-images.githubusercontent.com/107802412/184130019-2472c959-ec44-4211-91a5-9ce838633cf3.mp4 -->
+
+
+
 
 

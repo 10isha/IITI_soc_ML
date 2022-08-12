@@ -7,7 +7,7 @@
 - [Run](#Run)
 - [Demo](#Demo)
 - [Inference](#Inference)
-- [Training}(#Training
+- [Training](#Training)
 - [Accuracy measures](#Accuracy-measures)
 - [Dataset used](#Dataset-used)
 - [Other Models Tried](#Other-Models-Tried)

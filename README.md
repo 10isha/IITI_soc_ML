@@ -114,7 +114,7 @@ We have used an American Sign Language Dataset consisting of 3399 images having 
 
 -  [![Open All Collab](https://colab.research.google.com/drive/1syYyApJSgzV6S0ZIZ5aRLvsN5espFHM1?usp=sharing) (Model uses holistic mediapipeline)
 
-
+![res-3](https://github.com/snarkyidiot/IITI_soc_ML/blob/main/Demo/WhatsApp%20Image%202022-08-12%20at%203.05.10%20PM.jpeg)
 ----
 
 ### **Documentation**

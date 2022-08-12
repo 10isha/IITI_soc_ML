@@ -104,7 +104,7 @@ Tensorboard results:
 
 <img width="800" src="https://raw.githubusercontent.com/snarkyidiot/IITI_soc_ML/main/Demo/results.png">
 ---
-<csv src="https://raw.githubusercontent.com/snarkyidiot/IITI_soc_ML/main/Demo/accuracy%20of%20model%20-%20Sheet1.csv">
+<img src="https://raw.githubusercontent.com/snarkyidiot/IITI_soc_ML/main/Demo/accuracy%20of%20model%20-%20Sheet1.csv">
 ---
 ### **Dataset used**
 We have used an American Sign Language Dataset consisting of 3399 images having 26 American Sign language alphabets. This dataset was used because of the availability of annotations which were required for training our YOLO-v5s model.

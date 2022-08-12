@@ -14,7 +14,7 @@
 - [References](#References)
 
 ### **Introduction**
-In this presentation, we will be demonstrating a Computer Vision demo using YOLOv5 on the American Sign Language Dataset including 26 classes.
+In this presentation, we will be demonstrating a Computer Vision demo using YOLOv5 on the American Sign Language Dataset including 26 classes.The model identifies signs in real time as well as with input image or audio and builds bounding boxes showing label with confidence value..The model is showcased using streamlit which can take input as an image.
 
 ---
 
@@ -103,15 +103,17 @@ Tensorboard results:
 
 ---
 ### **Dataset used**
-
+We have used an American Sign Language Dataset consisting of 3399 images having 26 American Sign language alphabets. This dataset was used because of the availability of annotations which were required for training our YOLO-v5s model.
 * [American Sign Language](https://universe.roboflow.com/sign-language/american-language/dataset/1)
 
 ---
 ### **Other Models Tried**
 
--  [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dEI4jfkUO9_u5NLw_FQ-8ute53WbU_eg?usp=sharing) (Model using cnn layers for real time sign language detection)
+-  [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dEI4jfkUO9_u5NLw_FQ-8ute53WbU_eg?usp=sharing) (Model using CNN layers for real time sign language detection))
 
--  [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dEI4jfkUO9_u5NLw_FQ-8ute53WbU_eg?usp=sharing) (Model uses holistic mediapipeline)
+
+-  [![Open All Collab](https://colab.research.google.com/drive/1syYyApJSgzV6S0ZIZ5aRLvsN5espFHM1?usp=sharing) (Model uses holistic mediapipeline)
+
 
 ----
 

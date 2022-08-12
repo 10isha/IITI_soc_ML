@@ -7,7 +7,6 @@
 - [Run](#Run)
 - [Demo](#Demo)
 - [Inference](#Inference)
-- [Training](#Training)
 - [Accuracy measures](#Accuracy-measures)
 - [Dataset used](#Dataset-used)
 - [Other Models Tried](#Other-Models-Tried)
@@ -53,9 +52,9 @@ streamlit run app.py
  
 ---
 ### **Demo**
-<video src='https://user-images.githubusercontent.com/107802412/184130019-2472c959-ec44-4211-91a5-9ce838633cf3.mp4' width=400/></video>
+<video src='https://user-images.githubusercontent.com/107802412/184130019-2472c959-ec44-4211-91a5-9ce838633cf3.mp4' width="400"></video>
 
-<video src='https://user-images.githubusercontent.com/107802412/184349579-101a7631-f1bc-4924-b156-528c910b2aea.mp4' width=400/></video>
+<video src='https://user-images.githubusercontent.com/107802412/184349579-101a7631-f1bc-4924-b156-528c910b2aea.mp4' width="400"></video>
  
 
 
@@ -99,15 +98,13 @@ pip install -r requirements.txt  # install
 
 ---
 
-### **Training**
-the tensor
+### **Accuracy measures**
+
 Tensorboard results:
 
 <img width="800" src="https://raw.githubusercontent.com/snarkyidiot/IITI_soc_ML/main/Demo/results.png">
 ---
-### **Accuracy measures**
-we ran a testing in testing dataset and calculated precision,recall, F1 score of the model
-{google_sheets}https://docs.google.com/spreadsheets/d/1vNaIl_QhOzDW6Ybr08uVx-mlAI5BWqOOxjPJnY_aVR8/edit?usp=sharing{/google_sheets}
+
 ---
 ### **Dataset used**
 We have used an American Sign Language Dataset consisting of 3399 images having 26 American Sign language alphabets. This dataset was used because of the availability of annotations which were required for training our YOLO-v5s model.
@@ -134,6 +131,7 @@ We have used an American Sign Language Dataset consisting of 3399 images having 
 ### **Documentation**
 
 See the [Sign language translator doc](https://docs.google.com/document/d/1quMYLkYbuVvIrYl0c2jhnK0RxlBHqOovEMcEK7WBfMo/edit?usp=sharing) for full documentation on implementation of models and deployment.
+
 
 ---
 

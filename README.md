@@ -107,14 +107,15 @@ for details on each epoch
 ---
 
 ### **Accuracy measures**
+
 On testing our model on our testing dataset it returned the following metrics
-Precision:0.983
-recall:0.987
-F1Score:0.985
-mAP@.5:0.993
-mAP@.5:.95: 0.84
-Accuracy: 0.989
-for class wise detail refer this:
+- Precision:0.983
+- recall:0.987
+- F1Score:0.985
+- mAP@.5:0.993
+- mAP@.5:.95: 0.84
+- Accuracy: 0.989
+- for class wise detail refer this:
 https://docs.google.com/spreadsheets/d/1vNaIl_QhOzDW6Ybr08uVx-mlAI5BWqOOxjPJnY_aVR8/edit#gid=0
 ---
 
